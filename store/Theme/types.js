@@ -1,0 +1,4 @@
+export const SET_THEME = 'SET_THEME';
+export const SET_THEME_COLORS = 'SET_THEME_COLORS';
+export const SET_APP_LOADER = 'SET_APP_LOADER';
+export const SET_CLIENT_INACTIVE = 'SET_CLIENT_INACTIVE';
